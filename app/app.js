@@ -52,7 +52,7 @@ function DisplayItem(value) {
           
             <p class="toDo__listContainer__items__item__todo">${value}</p>
           
-            <img src="/images/icon-cross.svg" alt="Close" class="toDo__listContainer__items__item__closeBtn btn2">
+            <img src="https://kyofu666.github.io/ToDo-App/images/icon-cross.svg" alt="Close" class="toDo__listContainer__items__item__closeBtn btn2">
                 
         </div>
         `
