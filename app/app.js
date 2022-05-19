@@ -47,7 +47,7 @@ function DisplayItem(value) {
         
         <div class="toDo__listContainer__items__item toDo__listContainer__items__item">
             <div class="toDo__listContainer__items__item__checkContainer">
-              <img src="/images/icon-check.svg" alt="Check" class="toDo__listContainer__items__item__checkContainer__checkMark ">
+              <img src="https://kyofu666.github.io/ToDo-App/images/icon-check.svg" alt="Check" class="toDo__listContainer__items__item__checkContainer__checkMark ">
             </div>
           
             <p class="toDo__listContainer__items__item__todo">${value}</p>
