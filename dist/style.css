@@ -53,6 +53,11 @@ h1, p {
   width: -moz-fit-content;
   width: fit-content;
 }
+@media (max-width: 37.5em) {
+  .toDo {
+    padding: 0px 20px;
+  }
+}
 .toDo__header {
   display: flex;
   justify-content: space-between;
