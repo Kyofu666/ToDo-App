@@ -23,6 +23,7 @@ body {
   background-image: url(https://kyofu666.github.io/ToDo-App/images/bg-desktop-light.jpg);
   background-repeat: no-repeat;
   background-color: var(--Very-Light-Grayish-Blue);
+  background-color: rgb(240, 239, 239);
 }
 
 :root {
