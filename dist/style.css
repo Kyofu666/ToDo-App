@@ -55,7 +55,7 @@ h1, p {
 }
 @media (max-width: 37.5em) {
   .toDo {
-    padding: 0px 20px;
+    padding: 0px 25px;
   }
 }
 .toDo__header {
